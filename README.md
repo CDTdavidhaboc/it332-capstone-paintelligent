@@ -26,7 +26,13 @@ Tech Stack: JavaScript
 
 
 
-                 
+   Database Schema: no.
+                 quantity
+                 product_name
+                 category
+                 est_price
+                 standard_size
+                 volume              
                  
               
             
