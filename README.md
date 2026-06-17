@@ -16,6 +16,14 @@ Does your system need automation?
 
 Document your answers — this is your project plan.
 
+Title: Paintelligent: Seasonal Sales Forecasting, Paint Component Analyzer, and Prescriptive Analytics for the Retail Operations of Garcia Paint Center.
+
+Tech Stack: JavaScript
+            Microsoft Excel
+            Python
+            Google Gemini API Key
+            React
+
 
 
                  
