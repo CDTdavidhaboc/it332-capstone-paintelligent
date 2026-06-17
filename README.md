@@ -22,7 +22,7 @@ Tech Stack: JavaScript
             Microsoft Excel
             Python
             Google Gemini API Key
-            React
+            React JS
 
 
 
