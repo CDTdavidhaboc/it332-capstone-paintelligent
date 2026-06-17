@@ -22,11 +22,17 @@ Tech Stack: JavaScript
             Microsoft Excel
             Python
             Google Gemini API Key
-            React
+            React JS
 
 
 
-                 
+   Database Schema: no.
+                 quantity
+                 product_name
+                 category
+                 est_price
+                 standard_size
+                 volume              
                  
               
             
