@@ -23,9 +23,13 @@ Tech Stack: JavaScript
             Python
             Google Gemini API Key
             React JS
+            
 
+Week 2 – Project Structure and File Organization
 
+Accomplished Task:
 
+Organized the project directory structure by separating the frontend application and backend services into distinct folders. Established a cleaner and more maintainable development environment to support future integration, debugging, and deployment activities. Updated file organization standards to improve workflow efficiency and collaboration among developers.
                  
                  
               
