@@ -23,8 +23,16 @@ Tech Stack: JavaScript
             Python
             Google Gemini API Key
             React JS
+            
+
+Week 2 – Project Structure and File Organization
+
+Accomplished Task:
 
 
+Organized the project directory structure by separating the frontend application and backend services into distinct folders. Established a cleaner and more maintainable development environment to support future integration, debugging, and deployment activities. Updated file organization standards to improve workflow efficiency and collaboration among developers.
+                 
+            
 
    Database Schema: no.
                  quantity
@@ -44,3 +52,15 @@ Additionally, prepared the system's code structure and integration points for fu
 
 Figma Workspace:
 [Paintelligent Figma Workspace](https://www.figma.com/make/vvjnBpb0xS1uuCmZx9MyeP/Web-based-POS-System?p=f&t=LOZKFf1OeWP0pLIX-0&preview-route=%2Flogin&utm_source=chatgpt.com)
+
+
+
+Week 2 - UI Development and Design Finalization
+Accomplished Task:
+Finalized approximately 90% of the Paintelligent user interface (UI) using Figma. Enhanced the overall system layout, including the dashboard, navigation menu, login page, seasonal sales forecasting module, paint component analyzer interface, and prescriptive analytics pages. Improved user experience and visual consistency across all system screens to align with the operational needs of Garcia Paint Center.
+
+Week 2 – Day 2 Accomplished Tasks
+Member 1 – User Interface Enhancement
+
+Accomplished Task:
+Enhanced the system's login interface by integrating the updated Paintelligent logo and refining the visual design to improve branding consistency and user experience. Minor layout adjustments were also implemented to create a more professional and modern appearance for the login page.
