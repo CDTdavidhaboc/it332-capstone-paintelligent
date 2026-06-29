@@ -78,5 +78,10 @@ Initiated the development of the AI integration component for the Paint Componen
 
 WEEK 3 - DAY 1 ACCOMPLISHMENTS:
 
+Lawrence – Server Hosting Preparation
+Successfully coordinated the request for server hosting through Kim's server, which will serve as the primary hosting environment for the project's n8n workflows. This task involved preparing the necessary hosting requirements and ensuring that the server can support the deployment and execution of automation workflows. Establishing the hosting environment is a critical step toward enabling seamless integration between the system and n8n for AI-powered automation and webhook communication.
+
+WEEK 3 - DAY 1 ACCOMPLISHMENTS:
+
 David - Workflow Draft Development
 Developed a preliminary draft workflow in n8n as a practice exercise prior to creating the actual production workflow for the system. This activity focused on familiarizing with n8n's workflow structure, nodes, triggers, and automation logic while testing the flow of data between connected components. The practice workflow provided valuable experience and helped establish a foundation for developing the project's full automation workflow with greater accuracy and efficiency.
