@@ -85,3 +85,8 @@ WEEK 3 - DAY 1 ACCOMPLISHMENTS:
 
 David - Workflow Draft Development
 Developed a preliminary draft workflow in n8n as a practice exercise prior to creating the actual production workflow for the system. This activity focused on familiarizing with n8n's workflow structure, nodes, triggers, and automation logic while testing the flow of data between connected components. The practice workflow provided valuable experience and helped establish a foundation for developing the project's full automation workflow with greater accuracy and efficiency.
+
+WEEK 3 - DAY 1 ACCOMPLISHMENTS:
+
+Trisha - n8n Account Setup
+Completed the setup and initial configuration of the n8n account that will be used for developing and managing the project's automation workflows. This included creating the workspace, configuring the essential settings, and verifying account accessibility to ensure a stable environment for future workflow development, API integrations, and testing activities throughout the implementation phase.
