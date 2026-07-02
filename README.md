@@ -122,4 +122,5 @@ Continued improving the Paintelligent user interface by making minor adjustments
 Trisha – Workflow Draft Revision
 Reviewed and revised the draft workflow for the Paint Component Analyzer by organizing the workflow sequence and making minor improvements to its overall structure in preparation for future implementation.
 
-
+David – n8n Practice
+Continued practicing the use of n8n by creating simple workflows and exploring different nodes to better understand how automation works within the platform
