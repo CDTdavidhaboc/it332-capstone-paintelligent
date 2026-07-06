@@ -1,4 +1,6 @@
-it332-capstone-paintelligent
+# it332-capstone-paintelligent
+# Week 1 - Day 3 Accomplishments:
+
 Haboc, David Emanuel A.
 Macalindong, Trisha Anne S.
 Villalobos, Lawrence C.
@@ -14,7 +16,7 @@ Title: Paintelligent: Seasonal Sales Forecasting, Paint Component Analyzer, and 
 
 Tech Stack: JavaScript Microsoft Excel Python Google Gemini API Key React JS
 
-Week 2 – Project Structure and File Organization
+# Week 2 day 1 – Project Structure and File Organization
 
 Accomplished Task:
 
@@ -33,7 +35,7 @@ Figma Workspace: Paintelligent Figma Workspace
 
 Accomplished Task: Finalized approximately 90% of the Paintelligent user interface (UI) using Figma. Enhanced the overall system layout, including the dashboard, navigation menu, login page, seasonal sales forecasting module, paint component analyzer interface, and prescriptive analytics pages. Improved user experience and visual consistency across all system screens to align with the operational needs of Garcia Paint Center.
 
-Week 2 – Day 2 Accomplished Tasks:
+# Week 2 – Day 2 Accomplished Tasks:
 
 Trisha – User Interface Enhancement Accomplished Task: Enhanced the system's login interface by integrating the updated Paintelligent logo and refining the visual design to improve branding consistency and user experience. Minor layout adjustments were also implemented to create a more professional and modern appearance for the login page.
 
@@ -43,7 +45,7 @@ Accomplished Task: Modified the system navigation structure by converting the ex
 
 David – AI Integration Development Accomplished Task: Initiated the development of the AI integration component for the Paint Component Analyzer module. Began creating and configuring the first n8n AI Agent Webhook URL, which will serve as the communication endpoint between the Paintelligent system and the AI workflow. Initial preparations focused on establishing the webhook structure to support future image analysis, paint component identification, and automated recommendation functionalities.
 
-WEEK 2 DAY 3 ACCOMPLISHMENTS
+# WEEK 2 DAY 3 ACCOMPLISHMENTS
 
 David – AI Workflow Planning
 
@@ -55,7 +57,7 @@ Prepared the backend structure for future integration with AI services by organi
 
 Trisha – User Interface Enhancement Continued refining the Paintelligent user interface by improving the responsiveness and consistency of key dashboard components. Adjustments were made to the layout, spacing, typography, and navigation elements to provide a cleaner and more intuitive user experience while maintaining a consistent design throughout the system.
 
-WEEK 3 - DAY 1 ACCOMPLISHMENTS:
+# WEEK 3 - DAY 1 ACCOMPLISHMENTS:
 
 Lawrence – Server Hosting Preparation Successfully coordinated the request for server hosting through Kim's server, which will serve as the primary hosting environment for the project's n8n workflows. This task involved preparing the necessary hosting requirements and ensuring that the server can support the deployment and execution of automation workflows. Establishing the hosting environment is a critical step toward enabling seamless integration between the system and n8n for AI-powered automation and webhook communication.
 
@@ -63,7 +65,7 @@ David - Workflow Draft Development Developed a preliminary draft workflow in n8n
 
 Trisha - n8n Account Setup Completed the setup and initial configuration of the n8n account that will be used for developing and managing the project's automation workflows. This included creating the workspace, configuring the essential settings, and verifying account accessibility to ensure a stable environment for future workflow development, API integrations, and testing activities throughout the implementation phase.
 
-WEEK 3 - DAY 2 ACCOMPLISHMENTS:
+# WEEK 3 - DAY 2 ACCOMPLISHMENTS:
 
 Trisha – Dashboard Component Development Continued the implementation of the Paintelligent dashboard by developing additional interface components for the Seasonal Sales Forecasting module. Dashboard sections were further refined to accommodate future data visualizations, reports, and forecasting metrics while maintaining a consistent and user-friendly interface throughout the system.
 
@@ -71,10 +73,16 @@ Lawrence – Workflow Design and Process Planning Designed the preliminary workf
 
 David – n8n Workflow Exploration and Node Familiarization Continued exploring the features and capabilities of the n8n automation platform by studying its available nodes, triggers, and workflow connections. Conducted hands-on practice in creating simple workflows to better understand data flow, node configuration, and automation logic, establishing a stronger foundation for future implementation of the project's automation processes.
 
-WEEK 3 - DAY 3 ACCOMPLISHMENTS:
+# WEEK 3 - DAY 3 ACCOMPLISHMENTS:
 
 Lawrence – UI Enhancement Continued improving the Paintelligent user interface by making minor adjustments to the dashboard layout and navigation for better organization and usability.
 
 Trisha – Workflow Draft Revision Reviewed and revised the draft workflow for the Paint Component Analyzer by organizing the workflow sequence and making minor improvements to its overall structure in preparation for future implementation.
 
+
 David – n8n Practice Continued practicing the use of n8n by creating simple workflows and exploring different nodes to better understand how automation works within the platform
+
+# Week 4 - Day 1 Accomplishments:
+
+David (All) - Conducted a successful project progress presentation, demonstrating the implemented system features, development milestones, and current integration status to validate the project's ongoing development.
+
