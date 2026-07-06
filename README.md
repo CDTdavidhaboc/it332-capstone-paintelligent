@@ -1,4 +1,4 @@
-t332-capstone-paintelligent
+it332-capstone-paintelligent
 Haboc, David Emanuel A.
 Macalindong, Trisha Anne S.
 Villalobos, Lawrence C.
