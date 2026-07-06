@@ -2,8 +2,8 @@ import { useState } from "react";
 import { useNavigate } from "react-router";
 import { useAuth } from "../context/AuthContext";
 import { Lock, User, AlertCircle, Eye, EyeOff } from "lucide-react";
-import paintelligentLogo from "@/imports/ChatGPT_Image_Jun_23__2026__08_06_17_AM.png";
-import garciaPaintCenterBg from "figma:asset/4eb951910f69187187dbafd8220111f8f50f81ae.png";
+import paintelligentLogo from "@/assets/logo.png";
+import garciaPaintCenterBg from "@/assets/garciapaintcenter.png";
 
 export default function Login() {
   const [email, setEmail] = useState("");

@@ -2,7 +2,7 @@ import { Outlet, Link, useLocation } from "react-router";
 import { BarChart3, Palette, User } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
 import { useState, useEffect } from "react";
-import garciaLogo from "@/imports/ChatGPT_Image_Jun_23__2026__08_06_17_AM.png";
+import garciaLogo from "@/assets/logo.png";
 
 // Garcia Paint Center - Main Layout
 export default function Layout() {
