@@ -88,3 +88,8 @@ Lawrence - Modified the system's login authentication by transferring sensitive 
 
 David (All) - Conducted a successful project progress presentation, demonstrating the implemented system features, development milestones, and current integration status to validate the project's ongoing development.
 
+
+
+# Week 4 - Day 2 Accomplishments:
+
+Lawrence: Modified and refined the system logo to create a more professional and consistent visual identity.
