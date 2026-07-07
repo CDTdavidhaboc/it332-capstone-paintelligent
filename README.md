@@ -84,5 +84,7 @@ David – n8n Practice Continued practicing the use of n8n by creating simple wo
 
 # Week 4 - Day 1 Accomplishments:
 
+Lawrence - Modified the system's login authentication by transferring sensitive login credentials to a .env file, improving security and preventing confidential information from being exposed within the source code.
+
 David (All) - Conducted a successful project progress presentation, demonstrating the implemented system features, development milestones, and current integration status to validate the project's ongoing development.
 
