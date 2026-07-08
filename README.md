@@ -108,6 +108,6 @@ David: Successfully deployed the project to Vercel by:
 
 Vecel-hosted domain: https://paintelligent-kappa.vercel.app/login
 
-- 
+Trisha: Added fade-in animations to the Sales Forecasting module, creating smoother page transitions and interface interactions.
 
 - 
