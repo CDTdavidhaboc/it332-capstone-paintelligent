@@ -96,3 +96,18 @@ Trisha - Successfully connected the Paintelligent project to its GitHub reposito
 Lawrence: Modified and refined the system logo to create a more professional and consistent visual identity.
 
 Trisha: Implemented the AI integration directly into the system's codebase, replacing the planned n8n workflow.
+
+David: Enhanced the system's navigation tabs and buttons to improve the user interface and user experience.
+
+# Week 4 - Day 3 Accomplishments:
+
+David: Successfully deployed the project to Vercel by:
+       - Connecting the GitHub repository to Vercel.
+       - Configuring the required environment variables before deployment.
+       - Verifying that the deployed web application was accessible online.
+
+Vecel-hosted domain: https://paintelligent-kappa.vercel.app/login
+
+- 
+
+- 
