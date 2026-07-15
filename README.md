@@ -126,10 +126,10 @@ David - Developed the cache management system using localStorage for storing and
 
 
 # Week 5 - Day 1 Accomplishments:
-Designed and implemented the summary cards displaying total sales, dry season, and rainy season metrics with proper data binding. Created the initial wireframes and component structure for the forecasting dashboard following the design system specifications.
+lawrence- Designed and implemented the summary cards displaying total sales, dry season, and rainy season metrics with proper data binding. Created the initial wireframes and component structure for the forecasting dashboard following the design system specifications.
 
 # Week 5 - Day 2 Accomplishments:
-Developed the Product Performance Analysis section featuring best-selling and slow-moving products with formatted unit displays. Integrated the AI-generated marketing strategies component and ensured proper data flow between components.
+lawrence- Developed the Product Performance Analysis section featuring best-selling and slow-moving products with formatted unit displays. Integrated the AI-generated marketing strategies component and ensured proper data flow between components.
 
-# Week 5 - Day 2 Accomplishments:
-Implemented the High Demand Products section with tab switching functionality for dry and rainy seasons. Optimized the UI components with proper responsive breakpoints and conducted cross-browser testing for consistent rendering.
+# Week 5 - Day 3 Accomplishments:
+lawrence- Implemented the High Demand Products section with tab switching functionality for dry and rainy seasons. Optimized the UI components with proper responsive breakpoints and conducted cross-browser testing for consistent rendering.
