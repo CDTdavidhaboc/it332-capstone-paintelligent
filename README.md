@@ -141,6 +141,9 @@ Set up the Supabase project and created the complete user_data table schema with
 Trisha: UI Component Foundation
 Created the initial structure for the PaintComponentAnalyzer with file upload capabilities, basic inventory data loading from CSV/Excel files, and the core UI layout for the paint analysis tool, along with the UserProfile component scaffolding.
 
+Lawrence: Authentication Setup
+Built the initial authentication flow with login functionality using environment variables for credentials, set up the AuthContext provider, and established the basic routing structure for the application.
+
 
 # Week 6 Day 2 Accomplishments:
 
@@ -149,3 +152,9 @@ Developed the complete UserProfile component with editable fields, contact manag
 
 Trisha:  Paint Analyzer Core Functionality
 Completed the PaintComponentAnalyzer with full CSV/Excel parsing using Papa Parse and XLSX libraries, implemented the residential paint filtering system that excludes automotive and hardware products, integrated Google Gemini AI for color analysis and paint formulation, and added batch size management with real-time price calculations. Removed the redundant "Size" column from results display for cleaner UI.
+
+Lawrence: Core Features & Integration
+
+Supabase Integration & Data Persistence
+
+Successfully integrated Supabase cloud database into the application, implementing saveUserData, getUserData, registerUser, loginUser, saveUserProfile, and getUserProfile functions that handle all CRUD operations. Added proper error handling and logging for debugging, and ensured data persistence across browser sessions.
